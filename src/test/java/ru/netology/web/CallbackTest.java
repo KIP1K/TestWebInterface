@@ -10,6 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class CallbackTest {
 
+
     @Test
     void shouldTestSomething() {
         open("http://localhost:9999");
